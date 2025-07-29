@@ -1,4 +1,4 @@
-# Computer Graphics CSC317/CSC2504 _Fall 2024_
+# Computer Graphics CSC317/CSC2504 _Fall 2025_
 
 ![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
