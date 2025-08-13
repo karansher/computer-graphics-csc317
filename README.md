@@ -12,36 +12,33 @@
 - [Academic Honesty (required reading)](#academic-honesty)
 
 ## Instructors
-Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
-diwlevin@cs.toronto.edu   
-
-Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/)  
+Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/) LEC 0101\
 karan@dgp.toronto.edu
 
+[Joonho Kim](http://www.ohnooj.com) LEC 0201\
+joonho@dgp.toronto.edu
+
 ## TAs
-Jonathan Panuelos  
-Lily Goli  
-Mengfei Liu  
-Victor Pineda  
-Wenzhi Guo  
-Yun-Chun Chen  
-Zewen Shen  
-Zhecheng Wang  
+Karran Pandey **(Head TA)**\
+Vishnu Nittoor\
+Yunze Wei\
+Zhijie Wu\
+Sophia Yang
 
 csc317tas@cs.toronto.edu
 
-**Office Hours:**  
+## Office Hours:  
 ### You can attend any office hours that fits your schedule  
-Mondays 10am-11am BA5258 (Karan)  
-Mondays 3pm-4pm BA5268 (Dave)  
+Mondays 10am-11am BA5258 (Karan)\
+___ (Joonho)  
   
 ## Lectures
-Mondays 11:00-13:00 LEC101/LEC2001 BA1180  
-Mondays 13:00-15:00 LEC201/LEC2101 BA1190  
+Tuesday 13:00PM - 15:00PM LEC0101 WI1017 \
+Tuesday 15:00PM - 17:00PM LEC0201 BA1130
 
 ## Tutorials
-Wednesday 11:00-12:00 LEC101/LEC2001 BA1180  
-Wednesday 13:00-14:00 LEC201/LEC2101 BA1190  
+Thursday 13:00PM - 14:00PM LEC0101 MC252 \
+Thursday 15:00PM - 16:00PM LEC0201 MC254
 
 ## Links
 
@@ -175,3 +172,4 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
