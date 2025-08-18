@@ -33,12 +33,12 @@ Mondays 10am-11am BA5258 (Karan)\
 ___ (Joonho)  
   
 ## Lectures
-Tuesday 13:00PM - 15:00PM LEC0101 WI1017 \
-Tuesday 15:00PM - 17:00PM LEC0201 BA1130
+Tuesday 13:00 - 15:00 LEC0101 WI1017 \
+Tuesday 15:00 - 17:00 LEC0201 BA1130
 
 ## Tutorials
-Thursday 13:00PM - 14:00PM LEC0101 MC252 \
-Thursday 15:00PM - 16:00PM LEC0201 MC254
+Thursday 13:00 - 14:00 LEC0101 MC252 \
+Thursday 15:00 - 16:00 LEC0201 MC254
 
 ## Links
 
@@ -124,7 +124,7 @@ There will be 4 online quizzes available through Quercus. Each quiz will cover t
 
 | % | Item |
 | ----: | :-------------- |
-|64| Assignments (best 7 of 8)
+|64| Assignments (best 8 of 9)
 |12| 4 Quizzes (Online)
 |12| In Tutorial Test
 |12| In Class Test
@@ -172,4 +172,5 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
 
