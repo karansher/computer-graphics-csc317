@@ -11,12 +11,17 @@
 - [Lateness Policy](#lateness-policy)
 - [Academic Honesty (required reading)](#academic-honesty)
 
-## Instructors
-Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/) LEC 0101\
-karan@dgp.toronto.edu
+## Sections
+|                | **LEC 0101/2001** | **LEC 0201** |
+|----------------|--------------|--------------|
+| Instructor     | Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/) | [Joonho Kim](http://www.ohnooj.com) |
+| Contact        | karan@dgp.toronto.edu | joonho@dgp.toronto.edu |
+| Lecture        | Tue 13:00–15:00 WI1017 | Tue 15:00–17:00 BA1130 |
+| Tutorial       | Thu 13:00–14:00 MC252  | Thu 15:00–16:00 MC254 |
+| Office Hours   | Mon 10:00–11:00 BA5258 | Wed 12:00–13:00 BA2272 |
 
-[Joonho Kim](http://www.ohnooj.com) LEC 0201\
-joonho@dgp.toronto.edu
+
+**You can attend any office hours that fits your schedule*
 
 ## TAs
 Karran Pandey **(Head TA)**\
@@ -26,19 +31,6 @@ Zhijie Wu\
 Sophia Yang
 
 csc317tas@cs.toronto.edu
-
-## Office Hours:  
-### You can attend any office hours that fits your schedule  
-Mondays 10am-11am BA5258 (Karan)\
-___ (Joonho)  
-  
-## Lectures
-Tuesday 13:00 - 15:00 LEC0101 WI1017 \
-Tuesday 15:00 - 17:00 LEC0201 BA1130
-
-## Tutorials
-Thursday 13:00 - 14:00 LEC0101 MC252 \
-Thursday 15:00 - 16:00 LEC0201 MC254
 
 ## Links
 
@@ -92,8 +84,27 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 ## Lecture Schedule
 
-**Note: All assignments except 9 are available immediately. BUT we are only covering one assignment at a time. While  you are welcome to look ahead, future assignments
+**Note: All assignments are available immediately. BUT we are only covering one assignment at a time. While  you are welcome to look ahead, future assignments
 have not been debugged and we will not answer questions about them at tutorial or office hours until we cover them in lecture**
+
+| Week | Sun     | Mon                | Tue (Lec)| Wed (Quiz Release+due)| Thu (Tutorial+OH) | Fri (Assignment Due)| 
+|------|:-------|--------------------|----------|-----------------------|-------------------|---------------------|
+| 1    | Aug 31  | **Labour Day**     | Lec 1    |                       | Tut 1             |                     |
+| 2    | Sep 7   |                    | Lec 2    | q1 open               | o1+Tut 2          | a1                  |
+| 3    | Sep 14  |                    | Lec 3    |                       | o2+Tut 3          | a2                  |
+| 4    | Sep 21  |                    | Lec 4    | q2 open, q1 close     | o3+Tut 4          | a3                  |
+| 5    | Sep 28  |                    | Lec 5    |                       | Tut 5             |                     |
+| 6    | Oct 5   |      | refresher+**Test(1-4)**|                       | o4                | a4                  |
+| 7    | Oct 12  | **Thanksgiving**   | Lec 6    | q3 open, q2 close     | Tut 6             |                     |
+| 8    | Oct 19  |                    | Lec 7    |                       | o5                | a5                  |
+| 9    | Oct 26  | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week**    |
+| 10   | Nov 2   |                    | Lec 7+8  |                       | o6+Tut 7          | a6                  |
+| 11   | Nov 9   |      | Lec 8 / **Drop Day**   | q4 open, q3 close     | o7+Tut 8          | a7                  |
+| 12   | Nov 16  |                |Guest lecture |                       |                   |                     |
+| 13   | Nov 23  |    |**Test(5-8)**+adv. topics | q4 close              | o8                | a8+showcase         |
+| 14   | Nov 30  |               | wrap+showcase |                       |                   |                     |
+
+
 
 You can find a series of short videos cut up by lectures and topics voicing over the lecture slides [here](https://drive.google.com/drive/folders/1cWDOSB-DHepfBlj_vdDsf9mU9sLP8sem?usp=sharing).
 
@@ -172,5 +183,6 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
 
 
