@@ -84,69 +84,65 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 ## Lecture Schedule
 
-**Note: All assignments are available immediately. BUT we are only covering one assignment at a time. While  you are welcome to look ahead, future assignments
-have not been debugged and we will not answer questions about them at tutorial or office hours until we cover them in lecture**
+Below is the schedule for the course with each row of the table showing the week beginning with Sunday.
+Tuesdays are lecture days, Wednesdays are quiz due dates, Thursdays are Tutorial/Office Hours, Fridays are assignment due dates.
 
-| Week | Sun     | Mon                | Tue (Lec)| Wed (Quiz Release+due)| Thu (Tutorial+OH) | Fri (Assignment Due)| 
-|------|:-------|--------------------|----------|-----------------------|-------------------|---------------------|
+| Week | Sunday  | Mon           | Tue (Lectures)| Wed (Quiz Release+Due)| Thu (Tutorial+office Hours) | Fri (Assignment Due)| 
+|------|:--------|--------------------|----------|-----------------------|-------------------|---------------------|
 | 1    | Aug 31  | **Labour Day**     | Lec 1    |                       | Tut 1             |                     |
-| 2    | Sep 7   |                    | Lec 2    | q1 open               | o1+Tut 2          | a1                  |
-| 3    | Sep 14  |                    | Lec 3    |                       | o2+Tut 3          | a2                  |
-| 4    | Sep 21  |                    | Lec 4    | q2 open, q1 close     | o3+Tut 4          | a3                  |
+| 2    | Sep 7   |                    | Lec 2    | q1 released                   | Tut 2 + oh1       | a1                  |
+| 3    | Sep 14  |                    | Lec 3    |                       | Tut 3 + oh2       | a2                  |
+| 4    | Sep 21  |                    | Lec 4    | q2 released + q1 due     | Tut 4 + oh3       | a3                  |
 | 5    | Sep 28  |                    | Lec 5    |                       | Tut 5             |                     |
-| 6    | Oct 5   |      | refresher+**Test(1-4)**|                       | o4                | a4                  |
-| 7    | Oct 12  | **Thanksgiving**   | Lec 6    | q3 open, q2 close     | Tut 6             |                     |
-| 8    | Oct 19  |                    | Lec 7    |                       | o5                | a5                  |
+| 6    | Oct 5   |      | refresher+**Test 1 (ch1-4)**|                       | oh4          | a4                  |
+| 7    | Oct 12  | **Thanksgiving**   | Lec 6    | q3 released + q2 due     | Tut 6             |                     |
+| 8    | Oct 19  |                    | Lec 7    |                       | oh5               | a5                  |
 | 9    | Oct 26  | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week**    |
-| 10   | Nov 2   |                    | Lec 7+8  |                       | o6+Tut 7          | a6                  |
-| 11   | Nov 9   |      | Lec 8 / **Drop Day**   | q4 open, q3 close     | o7+Tut 8          | a7                  |
+| 10   | Nov 2   |                    | Lec 7+8  |                       | Tut 7 + oh6       | a6                  |
+| 11   | Nov 9   |      | Lec 8 (**Drop Day**)   | q4 released + q3 due     | Tut 8 + oh7       | a7                  |
 | 12   | Nov 16  |                |Guest lecture |                       |                   |                     |
-| 13   | Nov 23  |    |**Test(5-8)**+adv. topics | q4 close              | o8                | a8+showcase         |
+| 13   | Nov 23  |    |**Test 2 (ch5-8)**+adv. topics | q4 due              | oh8          | a8+showcase         |
 | 14   | Nov 30  |               | wrap+showcase |                       |                   |                     |
 
-
-
 You can find a series of short videos cut up by lectures and topics voicing over the lecture slides [here](https://drive.google.com/drive/folders/1cWDOSB-DHepfBlj_vdDsf9mU9sLP8sem?usp=sharing).
-
-| Week | Topic / Event |
-| ---- | :------------ |
-| 1    | Introduction[DL](lectures/lecture1.pdf),[KS](lectures/lecture1KS.pdf), [RGBtoHSV](lectures/rgbhsv.pdf),[tutorial](tutorials/tut1.pdf), [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images/tree/master) [Math Practice](lectures/pre-test.pdf)**waitlisted ? zip assignment and email to TAs** due 17/09
-| 2    | Lecture2[DL](lectures/lecture2.pdf),[KS](lectures/lecture2KS.pdf), [Assignment 2  Ray Casting](https://github.com/dilevin/computer-graphics-ray-casting) due 24/09
-| 3    | Lecture 3[DL](lectures/lecture3.pdf),[KS](lectures/lecture3KS.pdf), [Assignment 3 Ray Tracing](https://github.com/dilevin/computer-graphics-ray-tracing) due 01/10
-| 4    | Lecture 4[DL](lectures/lecture4.pdf),[KS](lectures/lecture4KS.pdf), [Assignment 4 Bounding Volume Hierarchy](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 8/10
-| 5    | Lecture 5[DL](lectures/lecture5.pdf),[KS](lectures/lecture5KS.pdf), [Assignment 5 Meshes](https://github.com/dilevin/computer-graphics-meshes) due  22/10 
-| 6    | **No Lecture, Thanksgiving**
-|      | First In-Tutorial Test October 16th
-| 7    | Lecture 6,[DL](lectures/lecture6.pdf),[KS](lectures/lecture6KS.pdf), [Assignment 6 Shader Pipeline](https://github.com/dilevin/computer-graphics-shader-pipeline) due 5/11
-| 8   | **No Lecture, Reading Week !**
-| 9    | Lecture 7, [DL](lectures/lecture7.pdf), [KS](lectures/lecture7KS.pdf), [Assignment 7 Kinematics](https://github.com/dilevin/computer-graphics-kinematics) due 12/11
-| 10    | Lecture 8, [DL](lectures/lecture8.pdf), [KS](lectures/lecture8KS.pdf), [Assignment 8 Mass-Spring Systems](https://github.com/dilevin/computer-graphics-mass-spring-systems) due   19/11
-| 11   | Lecture 9
-| 12   | Second In-Class Test December 3rd
-
-## Quizzes
-There will be 4 online quizzes available through Quercus. Each quiz will cover the content of two assignments each, from assignment 1 to assignment 8. Each quiz will go live after the respective topics are covered in class and must be completed on Quercus by the end of the term (December 3rd).
-
-[Academic Honesty (required reading)](#academic-honesty)
-
-![_image courtesy Gavin Barill_](images/gavin-barill-snowglobe.jpg)
 
 ## Grading
 
 | % | Item |
 | ----: | :-------------- |
-|64| Assignments (best 8 of 9)
+|64| Assignments (8% each)
 |12| 4 Quizzes (Online)
-|12| In Tutorial Test
-|12| In Class Test
+|12| Test 1 (ch 1-4)
+|12| Test 2 (ch 5-8)
 
-There will be nine programming assignments of which we will  count the best 8 marks (8% each).
+## Assignments
+
+**Note: All assignments are available immediately. BUT we are only covering one assignment at a time. While  you are welcome to look ahead, future assignments
+have not been debugged and we will not answer questions about them at tutorial or office hours until we cover them in lecture**
+
+| Assignment |
+| ---------- |
+| [Assignment 1: Raster Images]()|
+| [Assignment 2: Ray Casting]()|
+| [Assignment 3: Ray Tracing]()|
+| [Assignment 4: Bounding Volume Hierarchy]()|
+| [Assignment 5: Meshes]()|
+| [Assignment 6: Shader Pipeline]()|
+| [Assignment 7: Kinematics]()|
+| [Assignment 8: Mass-Sptring System]()|
+| [Showcase]()|
+
+
+## Quizzes
+There will be 4 online quizzes available through Quercus. Each quiz will cover the content of two assignments each, from assignment 1 to assignment 8. Each quiz will go live after the respective topics are covered in class and must be completed on Quercus by the end of the term (Nov 26).
+
+[Academic Honesty (required reading)](#academic-honesty)
+
+![_image courtesy Gavin Barill_](images/gavin-barill-snowglobe.jpg)
 
 ## Lateness Policy
 
 Every student is given ten (10) late days which are automatically applied,starting at midnight on the due date. Weekends count as late days.  
-
-If you plan on not submitting an assignment (to take advantage of the best 8-of-9 policy) please let us know so late days aren't applied. 
 
 ### Academic Honesty
 
@@ -183,6 +179,7 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
 
 
 
