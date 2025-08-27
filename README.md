@@ -110,7 +110,7 @@ You can find a series of short videos cut up by lectures and topics voicing over
 
 | % | Item |
 | ----: | :-------------- |
-|64| Assignments (8% each)
+|64| Assignments (8% each) + 5% extra credit creative showcase
 |12| 4 Quizzes (Online)
 |12| Test 1 (ch 1-4)
 |12| Test 2 (ch 5-8)
@@ -179,6 +179,7 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
 
 
 
