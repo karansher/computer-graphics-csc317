@@ -18,7 +18,7 @@
 | Contact        | karan@dgp.toronto.edu | joonho@dgp.toronto.edu |
 | Lecture        | Tue 13:00–15:00 WI1017 | Tue 15:00–17:00 BA1130 |
 | Tutorial       | Thu 13:00–14:00 MC252  | Thu 15:00–16:00 MC254 |
-| Office Hours   | Mon 10:00–11:00 BA5258 | Wed 12:00–13:00 BA2272 |
+| Office Hours   | Tue 10:30–11:30 BA5258 | Wed 12:00–13:00 BA2272 |
 
 
 **You can attend any office hours that fits your schedule*
@@ -179,6 +179,7 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
 
 
 
