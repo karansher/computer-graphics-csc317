@@ -122,8 +122,8 @@ have not been debugged and we will not answer questions about them at tutorial o
 
 | Assignment |
 | ---------- |
-| [Assignment 1: Raster Images]|
-| [Assignment 2: Ray Casting]|
+| [Assignment 1: Raster Images](https://github.com/ohnooj/computer-graphics-raster-images)|
+| [Assignment 2: Ray Casting](https://github.com/ohnooj/computer-graphics-ray-casting)|
 | [Assignment 3: Ray Tracing]|
 | [Assignment 4: Bounding Volume Hierarchy]|
 | [Assignment 5: Meshes]|
@@ -179,6 +179,7 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
 
 
 
