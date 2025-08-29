@@ -7,6 +7,7 @@
 - [Course Overview](#course-overview)
 - [Recommended Textbook](#recommended-textbook)
 - [Lecture Schedule](#lecture-schedule)
+- [Assignments](#assignments)
 - [Grading](#grading)
 - [Lateness Policy](#lateness-policy)
 - [Academic Honesty (required reading)](#academic-honesty)
@@ -184,3 +185,4 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
