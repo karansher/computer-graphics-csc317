@@ -89,7 +89,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 Below is the schedule for the course with each row of the table showing the week beginning with Sunday.
 * Tuesdays: Lecture days
-* Wednesdays: Auiz due dates
+* Wednesdays: Quiz due dates (time tbd)
 * Thursdays: Tutorial/Office Hours
 * Fridays: Assignment due dates **(11:59pm)** on Markus.
 
@@ -185,4 +185,5 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
 
