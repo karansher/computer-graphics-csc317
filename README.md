@@ -25,10 +25,12 @@
 
 ## TAs
 Karran Pandey **(Head TA)**\
-Vishnu Nittoor\
-Yunze Wei\
+Lulu Wei\
+Sophia Yang\
 Zhijie Wu\
-Sophia Yang
+Vishnu Nittoor\
+Jialin Li\
+Bo-Wei Wen
 
 csc317tas@cs.toronto.edu
 
@@ -85,7 +87,10 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 ## Lecture Schedule
 
 Below is the schedule for the course with each row of the table showing the week beginning with Sunday.
-Tuesdays are lecture days, Wednesdays are quiz due dates, Thursdays are Tutorial/Office Hours, Fridays are assignment due dates.
+* Tuesdays: Lecture days
+* Wednesdays: Auiz due dates
+* Thursdays: Tutorial/Office Hours
+* Fridays: Assignment due dates **(11:59pm)** on Markus.
 
 | Week | Sunday  | Mon           | Tue (Lectures)| Wed (Quiz Release+Due)| Thu (Tutorial+office Hours) | Fri (Assignment Due)| 
 |------|:--------|--------------------|----------|-----------------------|-------------------|---------------------|
@@ -179,14 +184,3 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
-
-
-
-
-
-
-
-
-
-
-
