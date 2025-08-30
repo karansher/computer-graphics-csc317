@@ -134,8 +134,8 @@ have not been debugged and we will not answer questions about them at tutorial o
 | [Assignment 4: Bounding Volume Hierarchy](https://github.com/ohnooj/computer-graphics-bounding-volume-hierarchy)|
 | [Assignment 5: Meshes](https://github.com/ohnooj/computer-graphics-meshes)|
 | [Assignment 6: Shader Pipeline](https://github.com/ohnooj/computer-graphics-shader-pipeline)|
-| [Assignment 7: Kinematics]|
-| [Assignment 8: Mass-Sptring System]|
+| [Assignment 7: Kinematics](https://github.com/ohnooj/computer-graphics-kinematics)|
+| [Assignment 8: Mass-Sptring System](https://github.com/ohnooj/computer-graphics-mass-spring-systems)|
 | [Showcase]()|
 
 
@@ -185,5 +185,6 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
 
 
