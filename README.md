@@ -8,8 +8,8 @@
 - [Recommended Textbook](#recommended-textbook)
 - [Lecture Schedule](#lecture-schedule)
 - [Assignments](#assignments)
-- [Grading](#grading)
 - [Lateness Policy](#lateness-policy)
+- [Grading](#grading)
 - [Academic Honesty (required reading)](#academic-honesty)
 
 ## Sections
@@ -138,6 +138,13 @@ have not been debugged and we will not answer questions about them at tutorial o
 | [Assignment 8: Mass-Sptring System](https://github.com/ohnooj/computer-graphics-mass-spring-systems)|
 | [Showcase]()|
 
+Assignments will be due on their respective Friday due dates at **11:59pm**.
+
+### Lateness Policy
+
+Every student is given ten (10) grace tokens which are automatically applied for assignments on Markus starting at midnight on the due date. Each grace token will provide an additional 12 hours period to submit your assignment without penalty.  Grace tokens do not replenish, so use them wisely.  Weekends count as late days.  You cannot choose which assignments to apply your grace tokens.  Once you run out of grace tokens, any **late assignments will be counted as 0 marks**.
+
+For example, say you have 10 grace tokens.  If a1 is due on Friday 11:59pm and you submit your assignment on Sunday 4pm, you will have used 4 grace tokens: Friday 11:59pm -> Saturday 11:59am (1gt) -> Saturday 11:59pm (1gt) -> Sunday 11:59am (1gt) -> Sunday 11:59pm (1gt).  You will now have 6 grace tokens left for other assignments.
 
 ## Quizzes
 There will be 4 online quizzes available through Quercus. Each quiz will cover the content of two assignments each, from assignment 1 to assignment 8. Each quiz will go live after the respective topics are covered in class and must be completed on Quercus by the end of the term (Nov 26).
@@ -146,9 +153,7 @@ There will be 4 online quizzes available through Quercus. Each quiz will cover t
 
 ![_image courtesy Gavin Barill_](images/gavin-barill-snowglobe.jpg)
 
-## Lateness Policy
 
-Every student is given ten (10) late days which are automatically applied,starting at midnight on the due date. Weekends count as late days.  
 
 ### Academic Honesty
 
@@ -185,6 +190,7 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
 
 
 
