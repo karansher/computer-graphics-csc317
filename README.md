@@ -95,16 +95,16 @@ Below is the schedule for the course with each row of the table showing the week
 
 | Week | Sunday  | Mon           | Tue (Lectures)| Wed (Quiz Release+Due)| Thu (Tutorial+office Hours) | Fri (Assignment Due)| 
 |------|:--------|--------------------|----------|-----------------------|-------------------|---------------------|
-| 1    | Aug 31  | **Labour Day**     | Lec 1    |                       | Tut 1             |                     |
-| 2    | Sep 7   |                    | Lec 2    | q1 released                   | Tut 2 + oh1       | a1                  |
-| 3    | Sep 14  |                    | Lec 3    |                       | Tut 3 + oh2       | a2                  |
-| 4    | Sep 21  |                    | Lec 4    | q2 released + q1 due     | Tut 4 + oh3       | a3                  |
-| 5    | Sep 28  |                    | Lec 5    |                       | Tut 5             |                     |
+| 1    | Aug 31  | **Labour Day**     | [Lec 1](lectures/lecture1.pdf)   |                       | Tut 1             |                     |
+| 2    | Sep 7   |                    | [Lec 2](lectures/lecture2.pdf)    | q1 released                   | Tut 2 + oh1       | a1                  |
+| 3    | Sep 14  |                    | [Lec 3](lectures/lecture3.pdf)    |                       | Tut 3 + oh2       | a2                  |
+| 4    | Sep 21  |                    | [Lec 4](lectures/lecture4.pdf)    | q2 released + q1 due     | Tut 4 + oh3       | a3                  |
+| 5    | Sep 28  |                    | [Lec 5](lectures/lecture5.pdf)    |                       | Tut 5             |                     |
 | 6    | Oct 5   |      | refresher+**Test 1 (ch1-4)**|                       | oh4          | a4                  |
-| 7    | Oct 12  | **Thanksgiving**   | Lec 6    | q3 released + q2 due     | Tut 6             |                     |
-| 8    | Oct 19  |                    | Lec 7    |                       | oh5               | a5                  |
+| 7    | Oct 12  | **Thanksgiving**   | [Lec 6](lectures/lecture6.pdf)    | q3 released + q2 due     | Tut 6             |                     |
+| 8    | Oct 19  |                    | [Lec 7](lectures/lecture7.pdf)    |                       | oh5               | a5                  |
 | 9    | Oct 26  | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week**    |
-| 10   | Nov 2   |                    | Lec 7+8  |                       | Tut 7 + oh6       | a6                  |
+| 10   | Nov 2   |                    | [Lec 8](lectures/lecture8.pdf)  |                       | Tut 7 + oh6       | a6                  |
 | 11   | Nov 9   |      | Lec 8 (**Drop Day**)   | q4 released + q3 due     | Tut 8 + oh7       | a7                  |
 | 12   | Nov 16  |                |Guest lecture |                       |                   |                     |
 | 13   | Nov 23  |    |**Test 2 (ch5-8)**+adv. topics | q4 due              | oh8          | a8+showcase         |
@@ -190,6 +190,7 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
 
 
 
