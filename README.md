@@ -51,6 +51,8 @@ Bo-Wei Wen
 
 [Eigen Matrix Library](https://eigen.tuxfamily.org/dox/)
 
+[CMake Guide](https://cliutils.gitlab.io/modern-cmake/)
+
 ## Course Overview
 
 This course introduces the basic concepts and algorithms of computer graphics.
@@ -190,6 +192,7 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
 
 
 
