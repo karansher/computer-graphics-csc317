@@ -13,18 +13,19 @@
 - [Academic Honesty (required reading)](#academic-honesty)
 
 ## Sections
+
 |                | **LEC 0101/2001** | **LEC 0201** |
 |----------------|--------------|--------------|
 | Instructor     | Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/) | [Joonho Kim](http://www.ohnooj.com) |
-| Contact        | karan@dgp.toronto.edu | joonho@dgp.toronto.edu |
+| Contact        | <karan@dgp.toronto.edu> | <joonho@dgp.toronto.edu> |
 | Lecture        | Tue 13:00–15:00 WI1017 | Tue 15:00–17:00 BA1130 |
 | Tutorial       | Thu 13:00–14:00 MC252  | Thu 15:00–16:00 MC254 |
 | Office Hours   | Tue 11:30–12:30 BA5258 | Wed 12:00–13:00 BA2272 |
 
-
-**You can attend any office hours that fits your schedule*
+*_You can attend any office hours that fits your schedule_
 
 ## TAs
+
 Karran Pandey **(Head TA)**\
 Lulu Wei\
 Sophia Yang\
@@ -41,7 +42,7 @@ Bo-Wei Wen
 
 **Use Assignment GitHub issue pages for questions/discussion**
 
-## Programming Resources 
+## Programming Resources
 
 [www.cplusplus.com](http://www.cplusplus.com)
 
@@ -86,19 +87,19 @@ et al. 2015.
 Digital e-book are available at [CRC
 Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition/Marschner-Shirley/p/book/9781482229394).
 
-
 ## Lecture Schedule
 
 Below is the schedule for the course with each row of the table showing the week beginning with Sunday.
-* Tuesdays: Lecture days
-* Wednesdays: Quiz due dates (time tbd)
-* Thursdays: Tutorial/Office Hours
-* Fridays: Assignment due dates **(11:59pm)** on Markus.
 
-| Week | Sunday  | Mon           | Tue (Lectures)| Wed (Quiz Release+Due)| Thu (Tutorial+office Hours) | Fri (Assignment Due)| 
+- Tuesdays: Lecture days
+- Wednesdays: Quiz due dates
+- Thursdays: Tutorial/Office Hours
+- Fridays: Assignment due dates **(11:59pm)** on Markus.
+
+| Week | Sunday  | Mon           | Tue (Lectures)| Wed (Quiz Release+Due)| Thu (Tutorial+office Hours) | Fri (Assignment Due)|
 |------|:--------|--------------------|----------|-----------------------|-------------------|---------------------|
-| 1    | Aug 31  | **Labour Day**     | [Introduction](lectures/lecture0.pdf)<br>[Lec 1](lectures/lecture1.pdf)<br>[Lec 1 JK](lectures/lecture0JK.pdf)   |                       | [Tut 1](tutorials/CSC317ComputerGraphicsTutorial1.pdf)             |                     |
-| 2    | Sep 7   |                    | [Lec 2](lectures/lecture2.pdf)    | q1 released                   | Tut 2 | a1 + oh1                 |
+| 1    | Aug 31  | **Labour Day**     | [Introduction](lectures/lecture0.pdf)<br>[Lec 1](lectures/lecture1.pdf)<br>[Lec 1 JK](lectures/lecture1JK.pdf)   |                       | [Tut 1](tutorials/CSC317ComputerGraphicsTutorial1.pdf)             |                     |
+| 2    | Sep 7   |                    | [Lec 2](lectures/lecture2.pdf)<br>[Lec 2 JK](lectures/lecture2JK)    | q1 released                   | Tut 2 | a1 + oh1                 |
 | 3    | Sep 14  |                    | [Lec 3](lectures/lecture3.pdf)    |                       | Tut 3 | a2 + oh2                         |
 | 4    | Sep 21  |                    | [Lec 4](lectures/lecture4.pdf)    | q2 released + q1 due     | Tut 4       | a3 + oh3                 |
 | 5    | Sep 28  |                    | [Lec 5](lectures/lecture5.pdf)    |                       | Tut 5             |                     |
@@ -149,13 +150,14 @@ Every student is given ten (10) grace tokens which are automatically applied for
 For example, say you have 10 grace tokens.  If a1 is due on Friday 11:59pm and you submit your assignment on Sunday 4pm, you will have used 4 grace tokens: Friday 11:59pm -> Saturday 11:59am (1gt) -> Saturday 11:59pm (1gt) -> Sunday 11:59am (1gt) -> Sunday 11:59pm (1gt).  You will now have 6 grace tokens left for other assignments.
 
 ## Quizzes
+
 There will be 4 online quizzes available through Quercus. Each quiz will cover the content of two assignments each, from assignment 1 to assignment 8. Each quiz will go live after the respective topics are covered in class and must be completed on Quercus by the end of the term (Nov 26).
+
+You will only have 1 attempt to complete the quiz.
 
 [Academic Honesty (required reading)](#academic-honesty)
 
 ![_image courtesy Gavin Barill_](images/gavin-barill-snowglobe.jpg)
-
-
 
 ### Academic Honesty
 
@@ -163,9 +165,9 @@ Academic honesty is a very serious matter and can result in very serious
 consequences. Note that academic offences may be discovered and handled
 retroactively, even after the semester in which the course was taken for credit.
 This is a challenging class aimed at teaching you the fundamentals of computer
-graphics. You wont learn much if you cheat but you might get a good grade if you
+graphics. You won't learn much if you cheat but you might get a good grade if you
 get away with it. If all you want is a good grade take an easier class where you
-wont have to cheat!
+won't have to cheat!
 
 For purposes of this class, academic dishonesty is defined as:
 
@@ -182,7 +184,7 @@ For purposes of this class, academic dishonesty is defined as:
 
 ### Email & Bulletin Board Traffic
 
-- Please use the TA Email List for all communications except for things that require a Professors dedicated attention. 
+- Please use the TA Email List for all communications except for things that require a Professors dedicated attention.
 - Use github issue pages on assignment pages for questions
 - Do NOT broadcast pieces of your code or answers to written assignments to the
   github issues. Specific or general implementation questions whose answer
@@ -192,18 +194,3 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
