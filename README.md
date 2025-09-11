@@ -99,7 +99,7 @@ Below is the schedule for the course with each row of the table showing the week
 | Week | Sunday  | Mon           | Tue (Lectures)| Wed (Quiz Release+Due)| Thu (Tutorial+office Hours) | Fri (Assignment Due)|
 |------|:--------|--------------------|----------|-----------------------|-------------------|---------------------|
 | 1    | Aug 31  | **Labour Day**     | [Introduction](lectures/lecture0.pdf)<br>[Lec 1](lectures/lecture1.pdf)<br>[Lec 1 JK](lectures/lecture1JK.pdf)   |                       | [Tut 1](tutorials/CSC317ComputerGraphicsTutorial1.pdf)             |                     |
-| 2    | Sep 7   |                    | [Lec 2](lectures/lecture2.pdf)<br>[Lec 2 JK](lectures/lecture2JK)    | q1 released                   | Tut 2 | a1 + oh1                 |
+| 2    | Sep 7   |                    | [Lec 2](lectures/lecture2.pdf)<br>[Lec 2 JK](lectures/lecture2JK)    | q1 released                   | [Tut 2](./tutorials/CSC317ComputerGraphicsTutorial2.pdf) | a1 + oh1                 |
 | 3    | Sep 14  |                    | [Lec 3](lectures/lecture3.pdf)    |                       | Tut 3 | a2 + oh2                         |
 | 4    | Sep 21  |                    | [Lec 4](lectures/lecture4.pdf)    | q2 released + q1 due     | Tut 4       | a3 + oh3                 |
 | 5    | Sep 28  |                    | [Lec 5](lectures/lecture5.pdf)    |                       | Tut 5             |                     |
