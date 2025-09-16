@@ -34,7 +34,7 @@ Vishnu Nittoor\
 Jialin Li\
 Bo-Wei Wen
 
-(TA Contact will be added soon)
+csc317tas@cs.toronto.edu
 
 ## Links
 
@@ -194,3 +194,4 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
