@@ -101,7 +101,7 @@ Below is the schedule for the course with each row of the table showing the week
 | 1    | Aug 31  | **Labour Day**     | [Introduction](lectures/lecture0.pdf)<br>[Lec 1](lectures/lecture1.pdf)<br>[Lec 1 JK](lectures/lecture1JK.pdf)   |                       | [Tut 1](tutorials/CSC317ComputerGraphicsTutorial1.pdf)             |                     |
 | 2    | Sep 7   |                    | [Lec 2](lectures/lecture2.pdf)<br>[Lec 2 JK](lectures/lecture2JK)    | q1 released                   | [Tut 2](./tutorials/CSC317ComputerGraphicsTutorial2.pdf) | a1 + oh1                 |
 | 3    | Sep 14  |                    | [Lec 3](lectures/lecture3.pdf)<br>[Lec 3 JK](lectures/lecture3JK.pdf)    |                       | [Tut 3](./tutorials/CSC317ComputerGraphicsTutorial3.pdf) | a2 + oh2                         |
-| 4    | Sep 21  |                    | [Lec 4](lectures/lecture4.pdf)<br>[Lec 4 JK](./lectures/lecture4JK.pdf)    | q2 released + q1 due     | Tut 4       | a3 + oh3                 |
+| 4    | Sep 21  |                    | [Lec 4](lectures/lecture4.pdf)<br>[Lec 4 JK](./lectures/lecture4JK.pdf)    | q2 released + q1 due     | [Tut 4](./tutorials/CSC317ComputerGraphicsTutorial4.pdf)       | a3 + oh3                 |
 | 5    | Sep 28  |                    | [Lec 5](lectures/lecture5.pdf)    |                       | Tut 5             |                     |
 | 6    | Oct 5   |      | refresher+**Test 1 (ch1-4)**|                       |         | a4 + oh4                 |
 | 7    | Oct 12  | **Thanksgiving**   | [Lec 6](lectures/lecture6.pdf)    | q3 released + q2 due     | Tut 6             |                     |
