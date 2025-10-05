@@ -104,7 +104,7 @@ Below is the schedule for the course with each row of the table showing the week
 | 4    | Sep 21  |                    | [Lec 4](lectures/lecture4.pdf)<br>[Lec 4 JK](./lectures/lecture4JK.pdf)    | q2 released + q1 due     | [Tut 4](./tutorials/CSC317ComputerGraphicsTutorial4.pdf)       | a3 + oh3                 |
 | 5    | Sep 28  |                    | [Lec 5](lectures/lecture5.pdf)    |                       | [Tut 5](./tutorials/CSC317ComputerGraphicsTutorial5.pdf)             |                     |
 | 6    | Oct 5   |      | refresher+**Test 1 (ch1-4)**|                       |         | a4 + oh4                 |
-| 7    | Oct 12  | **Thanksgiving**   | [Lec 6](lectures/lecture6.pdf)    | q3 released + q2 due     | Tut 6             |                     |
+| 7    | Oct 12  | **Thanksgiving**   | [Lec 6](lectures/lecture6.pdf)    | ~q3 released + q2 due~     | Tut 6             |  q3 released + q2 due                   |
 | 8    | Oct 19  |                    | [Lec 7](lectures/lecture7.pdf)    |                       |               | a5 + oh5                  |
 | 9    | Oct 26  | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week**    |
 | 10   | Nov 2   |                    | Lec7+[Lec 8](lectures/lecture8.pdf)    |                       | Tut 7       | a6 + oh6                  |
@@ -194,3 +194,4 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
