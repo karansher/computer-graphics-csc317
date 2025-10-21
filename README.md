@@ -105,7 +105,7 @@ Below is the schedule for the course with each row of the table showing the week
 | 5    | Sep 28  |                    | [Lec 5](lectures/lecture5.pdf)    |                       | [Tut 5](./tutorials/CSC317ComputerGraphicsTutorial5.pdf)             |                     |
 | 6    | Oct 5   |      | refresher+**Test 1 (Lec1-4)**|                       |         | a4 + oh4                 |
 | 7    | Oct 12  | **Thanksgiving**   | [Lec 6](lectures/lecture6.pdf)<br>[Lec 6 JK](lectures/lecture6JK.pdf)  | ~q3 released + q2 due~     | Tut 6             |  q3 released + q2 due                   |
-| 8    | Oct 19  |                    | [Lec 7](lectures/lecture7.pdf)    |                       |               | a5 + oh5                  |
+| 8    | Oct 19  |                    | [Lec 7](lectures/lecture7.pdf)<br>[Lec 7 JK](lectures/lecture7JK.pptx)    |                       |               | a5 + oh5                  |
 | 9    | Oct 26  | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week**    |
 | 10   | Nov 2   |                    | Lec7+[Lec 8](lectures/lecture8.pdf)    |                       | Tut 7       | a6 + oh6                  |
 | 11   | Nov 9   |      | Lec 8 (**Drop Day**)   | q4 released + q3 due     | Tut 8        | a7 + oh7                 |
