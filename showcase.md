@@ -1,5 +1,6 @@
 # Showcase Extra Credit (1-5%)
-*Due Date: December 5th 11:55pm (10 Grace Tokens Applicable)*
+**Due Date: December 5th 11:55pm (10 Grace Tokens Applicable)**
+
 As we wrap up the computer graphics course, you have the opportunity to produce any creative graphical Piece of anything you desire for between 1-5% extra credit on your total grade.  Specifically, your rendered Piece should adhere to the following criteria:
 - Your Piece should be the **output from any of the 8 assignments in the course**.  You may update this code however you'd like and use any external C++ libraries or technologies.
 - Your code should include significant features or updates that produces a cool result.  Some examples could be: adding new ray-tracing features, using more complex meshes from online, animating characters in new ways, custom texture mapping.
