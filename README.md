@@ -107,11 +107,11 @@ Below is the schedule for the course with each row of the table showing the week
 | 7    | Oct 12  | **Thanksgiving**   | [Lec 6](lectures/lecture6.pdf)<br>[Lec 6 JK](lectures/lecture6JK.pdf)  | ~q3 released + q2 due~     | [Tut 6](./tutorials/CSC317ComputerGraphicsTutorial6.pdf)              |  q3 released + q2 due                   |
 | 8    | Oct 19  |                    | [Lec 7](lectures/lecture7.pdf)<br>[Lec 7 JK](lectures/lecture7JK.pptx)    |                       |               | a5 + oh5                  |
 | 9    | Oct 26  | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week**    |
-| 10   | Nov 2   |                    | Lec7+[Lec 8](lectures/lecture8.pdf)    |                       | Tut 7       | a6 + oh6                  |
-| 11   | Nov 9   |      | Lec 8 (**Drop Day**)   | q4 released + q3 due     | Tut 8        | a7 + oh7                 |
+| 10   | Nov 2   |                    | Lec7    |                       | Tut 7       | a6 + oh6                  |
+| 11   | Nov 9   |      | [Lec 8](lectures/lecture8.pdf) (**Drop Day**)   | q4 released + q3 due     | Tut 8        | a7 + oh7                 |
 | 12   | Nov 16  |                |Guest lecture |                       |                   |                     |
-| 13   | Nov 23  |    |**Test 2 (Lec5-8)**+adv. topics | q4 due              |       | a8 + oh8 + showcase         |
-| 14   | Nov 30  |               | wrap+showcase |                       |                   |                     |
+| 13   | Nov 23  |    |**Test 2 (Lec5-8)** | q4 due              |       | a8 + oh8         |
+| 14   | Nov 30  |               | Advance Topics+wrap |                       |                   | showcase               |
 
 You can find a series of short videos cut up by lectures and topics voicing over the lecture slides [here](https://drive.google.com/drive/folders/1cWDOSB-DHepfBlj_vdDsf9mU9sLP8sem?usp=sharing).
 
@@ -139,7 +139,7 @@ have not been debugged and we will not answer questions about them at tutorial o
 | [Assignment 6: Shader Pipeline](https://github.com/ohnooj/computer-graphics-shader-pipeline)|
 | [Assignment 7: Kinematics](https://github.com/ohnooj/computer-graphics-kinematics)|
 | [Assignment 8: Mass-Sptring System](https://github.com/ohnooj/computer-graphics-mass-spring-systems)|
-| [Showcase]()|
+| [Showcase](https://github.com/karansher/computer-graphics-csc317/blob/master/showcase.md)|
 
 Assignments will be due on their respective Friday due dates at **11:59pm**.
 
@@ -194,3 +194,4 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
+
