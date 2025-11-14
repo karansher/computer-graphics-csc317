@@ -108,7 +108,7 @@ Below is the schedule for the course with each row of the table showing the week
 | 8    | Oct 19  |                    | [Lec 7](lectures/lecture7.pdf)<br>[Lec 7 JK](lectures/lecture7JK.pptx)    |                       |               | a5 + oh5                  |
 | 9    | Oct 26  | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week**    |
 | 10   | Nov 2   |                    | Lec7    |                       | [Tut 7](./tutorials/CSC317ComputerGraphicsTutorial7.pdf)        | a6 + oh6                  |
-| 11   | Nov 9   |      | [Lec 8](lectures/lecture8.pdf) (**Drop Day**)   | q4 released + q3 due     | Tut 8        | a7 + oh7                 |
+| 11   | Nov 9   |      | [Lec 8](lectures/lecture8.pdf) (**Drop Day**)   | q4 released + q3 due     | [Tut 8](./tutorials/CSC317ComputerGraphicsTutorial8.pdf)        | a7 + oh7                 |
 | 12   | Nov 16  |                |Guest lecture |                       |                   |                     |
 | 13   | Nov 23  |    |**Test 2 (Lec5-8)** | q4 due              |       | a8 + oh8         |
 | 14   | Nov 30  |               | Advance Topics+wrap |                       |                   | showcase               |
