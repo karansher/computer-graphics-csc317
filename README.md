@@ -109,7 +109,7 @@ Below is the schedule for the course with each row of the table showing the week
 | 9    | Oct 26  | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week** | **Reading Week**    |
 | 10   | Nov 2   |                    | Lec7    |                       | [Tut 7](./tutorials/CSC317ComputerGraphicsTutorial7.pdf)        | a6 + oh6                  |
 | 11   | Nov 9   |      | [Lec 8](lectures/lecture8.pdf) (**Drop Day**)   | q4 released + q3 due     | [Tut 8](./tutorials/CSC317ComputerGraphicsTutorial8.pdf)        | a7 + oh7                 |
-| 12   | Nov 16  |                |Guest lecture |                       |                   |                     |
+| 12   | Nov 16  |                |Guest lecture + [Review](./lectures/lecture-review.pdf) |                       |                   |                     |
 | 13   | Nov 23  |    |**Test 2 (Lec5-8)** |               |       | a8 + oh8 + q4 due         |
 | 14   | Nov 30  |               | Advance Topics+wrap |                       |                   | showcase               |
 
@@ -194,4 +194,3 @@ For purposes of this class, academic dishonesty is defined as:
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
   question with code, take it to the TA office hours or to the tutorials.
-
