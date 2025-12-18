@@ -28,4 +28,4 @@ All submissions will be given a minimum of 1% for non-trivial effort and further
 - Any submission missing the required Code, Piece, or Writing will not be given any credit.
 
 ## Showcasing:
-All Pieces will be uploaded to a public course webpage during finals weeks showcasing all student work.  We will also highlight a couple of staff picks. (Link tbd)
+All Pieces will be uploaded to a public course webpage during finals weeks showcasing all student work.  We will also highlight a couple of staff picks. [(Student Gallery Page)](https://www.dgp.toronto.edu/~joonho/courses/csc317-2025-09/showcase/)
